@@ -136,3 +136,6 @@ This tool is released under the [MIT License](LICENSE). You are free to use, mod
 ---
 
 **Disclaimer**: This project is for **educational purposes only**. Misuse of this tool can cause significant damage to your system. Always use responsibly and with caution.
+
+- **Credits**
+- Mister Chatgpt, who has forcibly written this README for me.
